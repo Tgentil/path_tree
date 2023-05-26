@@ -1,4 +1,7 @@
 # Print Directory Tree
+
+ [![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este script em Python tem como objetivo criar uma árvore de diretórios a partir do diretório em que o script está sendo executado. A árvore de diretórios é impressa no console, mostrando todos os subdiretórios e arquivos presentes no diretório raiz.
 
 ## Como utilizar
