@@ -1,5 +1,8 @@
 """cria um path tree para o folder atual desse script"""
 import os
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 def print_directory_tree(root_dir, padding=''):
     """
